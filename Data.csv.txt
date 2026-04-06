@@ -1,0 +1,6 @@
+Concentration,Absorbance
+0,0.00
+1,0.50
+2,1.00
+5,2.50
+10,5.00
